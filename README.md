@@ -3,7 +3,7 @@
 [IMPORTANTE: CATALINK AGORA OPEN SOURCE!](https://github.com/olvriz/CATALINK)
 
 EN:
-### Hi there, Hope you are doing well! 👋
+### Hi there, hope you are doing well! 👋
 My name is Guilherme, but you can call me Oliver if you want! 
 I have 23 years old and im very excited to join the technology market! Study and progress never stop!➰
 - 🔭 I’m currently working on Risk analyst at Creditas.
