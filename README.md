@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/85374093/178001842-87e1b7ab-24f2-462b-ae0c-717263ce2e29.png)
 
-IMPORTANTE: CATALINK AGORA OPENS SOURCE! 
+IMPORTANTE: CATALINK AGORA OPEN SOURCE! 
 
 EN:
 ### Hi there, Hope you are doing well! 👋
