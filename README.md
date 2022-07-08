@@ -13,7 +13,7 @@ I have 23 years old and im very excited to join the technology market! Study and
 
 PT-BR:
 ### Oi! Espero que esteja ótim@ hoje! 👋
-- Meu nome é Guilherme, mas pode me chamar de Oliver! ✨
+Meu nome é Guilherme, mas pode me chamar de Oliver! ✨
 - 23 Anos e cursando o último semestre de análise e desenvolvimento de sistemas! 
 - Apaixonado por música e tecnologia desde pequeno, correndo atrás do sonho de ingressar no mercado de tech!
 - Autodidata 📚
