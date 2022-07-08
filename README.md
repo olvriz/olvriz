@@ -8,7 +8,7 @@ I have 23 years old and im very excited to join the technology market! Study and
 - 📚 I’m currently learning Analysis and systems development at FIAP.
 - 🤔 I’m looking for help with data analysis in general.
 - 💬 Ask me about anything! I would love to help!
-- 📫 How to reach me on [Linkedin!](https://www.linkedin.com/in/guilherme-oliveira-931197193/)!
+- 📫 Reach me on [Linkedin!](https://www.linkedin.com/in/guilherme-oliveira-931197193/)!
 - 😍 Fun fact: You can learn when you are sleeping!
 
 PT-BR:
