@@ -37,7 +37,8 @@ Meu nome é Guilherme, mas pode me chamar de Oliver! ✨
 |  [Liderença de Desenvolvimento de Competências](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/49738/59718896348a43fe342310aac25723a1/certificado.png) |  Equipes de alto desempenho |  Curso com certificado pela FIAP em 2022  |
 |  [FIAP Certificate System Analysis and Web Prototyping](https://www.fiap.com.br/updown/DocumentosAssinados/3eb4d817-2ccf-40b1-be06-2993d39c707b.pdf) |  Bronze Certified FIAP | Certificado pela FIAP em 2021 |
 |  [FIAP Certificate in Web 2.0 Development and Design](https://www.fiap.com.br/updown/DocumentosAssinados/24bf4935-7bfe-4d64-80f8-9335b6da3020.pdf) |  Bronze Certified FIAP | Certificado pela FIAP em 2021 |
- 
+
+[Wanna know more? Click Here!](https://linktr.ee/olvriz)
 
 See a liitle more about my first project! 
 
