@@ -6,7 +6,7 @@ EN:
 ### Hi there, hope you are doing well! 👋
 My name is Guilherme, but you can call me Oliver if you want! 
 I have 23 years old and im very excited to join the technology market! Study and progress never stop!➰
-- 🔭 I’m currently working on Risk analyst at Creditas.
+- 🔭 I’m currently working at Ambev as a Data Engineer.
 - 📚 I’m currently learning Analysis and systems development at FIAP.
 - 🤔 I’m looking for help with data analysis in general.
 - 💬 Ask me about anything! I would love to help!
