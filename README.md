@@ -5,7 +5,7 @@
 EN:
 ### Hi there, hope you are doing well! 👋
 My name is Guilherme, but you can call me Oliver if you want! 
-I have 23 years old and i'm passionate about technology Study and progress never stop!➰
+I have 23 years old and i'm passionate about technology. Study and progress never stop!➰
 - 🔭 I’m currently working at Ambev as a Data Engineer.
 - 📚 Graduated in systems analysis and development at FIAP
 - 🤔 I’m looking for help with data analysis in general.
