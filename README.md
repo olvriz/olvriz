@@ -7,7 +7,7 @@ EN:
 My name is Guilherme, but you can call me Oliver if you want! 
 I have 23 years old and im very excited to join the technology market! Study and progress never stop!➰
 - 🔭 I’m currently working at Ambev as a Data Engineer.
-- 📚 I’m currently learning Analysis and systems development at FIAP.
+- 📚 Graduated in systems analysis and development at FIAP
 - 🤔 I’m looking for help with data analysis in general.
 - 💬 Ask me about anything! I would love to help!
 - 📫 Reach me on [Linkedin!](https://www.linkedin.com/in/guilherme-oliveira-931197193/)!
@@ -16,7 +16,7 @@ I have 23 years old and im very excited to join the technology market! Study and
 PT-BR:
 ### Oi! Espero que esteja ótim@ hoje! 👋
 Meu nome é Guilherme, mas pode me chamar de Oliver! ✨
-- 23 Anos e cursando o último semestre de análise e desenvolvimento de sistemas! 
+- 23 Anos e formado em análise e desenvolvimento de sistemas! 
 - Apaixonado por música e tecnologia desde pequeno, correndo atrás do sonho de ingressar no mercado de tech!
 - Autodidata 📚
 - Músico multi-instrumentista (Guitarra 🎸, contrabaixo 🎸, teclado 🎹 e bateria 🥁)
