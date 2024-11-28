@@ -6,7 +6,7 @@ EN:
 ### Hi there, hope you are doing well! 👋
 My name is Guilherme, but you can call me Oliver if you want! 
 I have 25 years old and i'm passionate about technology. Study and progress never stop!➰
-- 🔭 I’m currently working at Ambev as a Data Engineer.
+- 🔭 I’m currently working at Ab-inbev as a Senior Data Engineer.
 - 📚 Graduated in systems analysis and development at FIAP
 - 🤔 I’m looking for help with data analysis in general.
 - 💬 Ask me about anything! I would love to help!
@@ -16,7 +16,8 @@ I have 25 years old and i'm passionate about technology. Study and progress neve
 PT-BR:
 ### Oi! Espero que esteja ótim@ hoje! 👋
 Meu nome é Guilherme, mas pode me chamar de Oliver! ✨
-- 25 Anos e formado em análise e desenvolvimento de sistemas! 
+- 25 Anos e formado em análise e desenvolvimento de sistemas!
+- Atualmente trabalhando como Engenheiro de dados Sênior para Ab-inbev
 - Apaixonado por música e tecnologia desde pequeno, correndo atrás do sonho de ingressar no mercado de tech!
 - Autodidata 📚
 - Músico multi-instrumentista (Guitarra 🎸, contrabaixo 🎸, teclado 🎹 e bateria 🥁)
@@ -40,7 +41,7 @@ Meu nome é Guilherme, mas pode me chamar de Oliver! ✨
 
 [Wanna know more? Click Here!](https://linktr.ee/olvriz)
 
-See a liitle more about my first project! 
+See a short resume about my first project! 
 
 With +100 proud downloads, my first project is a simple, practical and efficient extension for Google Chrome, Microsoft Edge and Opera Max that concentrates fundamental accesses and links for an analysis or operation table, optimizing the time spent in operation, SLA and Lead Time.
 
